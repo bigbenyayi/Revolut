@@ -6,11 +6,11 @@ import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 import com.orhanobut.hawk.Hawk;
-import com.myapp.android.revolut.dagger.ContextModule;
-import com.myapp.android.revolut.dagger.DaggerInjector;
-import com.myapp.android.revolut.dagger.Injector;
-import com.myapp.android.revolut.model.db.HawkAutoValueParser;
-import com.myapp.android.revolut.util.Logger;
+import com.myapp.android.revolut.Dagger.ContextModule;
+import com.myapp.android.revolut.Dagger.DaggerInjector;
+import com.myapp.android.revolut.Dagger.Injector;
+import com.myapp.android.revolut.Model.db.HawkAutoValueParser;
+import com.myapp.android.revolut.Utils.Logger;
 
 import io.michaelrocks.paranoid.Obfuscate;
 

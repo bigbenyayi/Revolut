@@ -4,7 +4,7 @@ apply plugin: 'io.michaelrocks.paranoid'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.prituladima.android.revolut"
+        applicationId "com.myapp.android.revolut"
         minSdkVersion 18
         targetSdkVersion 26
         versionCode 1

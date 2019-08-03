@@ -12,7 +12,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.myapp.android.revolut.view.activities.LastCurrencyActivity">
+        <activity android:name="com.myapp.android.revolut.View.Activities.LastCurrencyActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
 
-        <service android:name="com.myapp.android.revolut.services.PeriodicalService" />
+        <service android:name="com.myapp.android.revolut.Services.PeriodicalService" />
     </application>
 
 </manifest>
