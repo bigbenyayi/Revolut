@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RevolutAndroid.iml" filepath="$PROJECT_DIR$/RevolutAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/revolut-android-prytula-master.iml" filepath="$PROJECT_DIR$/revolut-android-prytula-master.iml" />
     </modules>
   </component>

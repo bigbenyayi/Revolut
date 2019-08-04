@@ -16,7 +16,7 @@ import javax.inject.Singleton;
 
 import io.michaelrocks.paranoid.Obfuscate;
 import rx.Subscription;
-
+//Using the Architecture folder
 @Obfuscate
 @Singleton
 public class LastCurrencyPresenter extends BasePresenter<LastCurrencyContract.ILastCurrencyView>
